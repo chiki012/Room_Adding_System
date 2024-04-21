@@ -5,19 +5,31 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 ## Run Command
 php artisan serve
+
+
+# Project Overview
+
+## Upload Form
+<img width="1277" alt="upload_form" src="https://github.com/chiki012/Room_Adding_System/assets/127822363/82862023-e461-471a-ac35-70b0dd56c3d9">
+
+
+## Adding Info
+<img width="1279" alt="Adding_Info" src="https://github.com/chiki012/Room_Adding_System/assets/127822363/95d058ed-4323-4c9a-b641-f94ea50a6886">
+
+## Room Added
+<img width="1280" alt="room_added" src="https://github.com/chiki012/Room_Adding_System/assets/127822363/935467ba-f191-4f31-8875-464bcce73ab7">
+
+## Room Review
+<img width="1280" alt="Room_Review" src="https://github.com/chiki012/Room_Adding_System/assets/127822363/9a26c821-67df-43f8-af90-657284518b3b">
+
+
+# MYSQL Database: 
+
+## Table info:
+<img width="579" alt="table_info" src="https://github.com/chiki012/Room_Adding_System/assets/127822363/1f986c84-dd60-418f-9f78-4731b45e78d7">
+
+## Stored Data:
+<img width="1074" alt="data_stored" src="https://github.com/chiki012/Room_Adding_System/assets/127822363/46a87554-f40f-4ece-b2e4-3e8590e4d991">
+
